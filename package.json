@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "serve": "^14.0.1",
-    "testcafe": "^2.1.0"
+    "testcafe": "^1.6.0"
   }
 }
